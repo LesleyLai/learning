@@ -18,3 +18,6 @@ Icons: 📚 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 ## Math/Science
 - [Mathematics](mathematics.md)
 - [Psychology](psychology.md)
+
+## Personal
+- [Inclusion](inclusion.md)
