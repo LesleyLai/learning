@@ -36,3 +36,10 @@ contains handwritten lexer and recursive descent parser. And chapter 17 is a gre
 - [ ] 🔗 [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) - Mark and sweep. From Bob Nystrom, the same person behind "Crafting Interpreter."
 - [x] 📚 [Crafting Interpreter](http://www.craftinginterpreters.com/) Chapter 26 - It introduces tricolor garbage collection.
 - [ ] 📚 [The Garbage Collection Handbook](https://gchandbook.org/)
+
+### Functional Languages
+- [ ] 📚 [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf) - by Simon Peyton Jones
+
+###  Linking and loading
+- [ ] 📚 [Advanced C and C++ Compiling](https://www.amazon.com/Advanced-C-Compiling-Milan-Stevanovic/dp/1430266678)
+- [ ] 📚 [Linkers & Loaders](https://www.amazon.com/dp/1558604960)

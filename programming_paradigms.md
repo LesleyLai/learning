@@ -18,3 +18,6 @@ Note: most of the programming paradigms related resources are spread-out in sect
 
 ## Data-Oriented Design
 - [x] 📚 [Data Oriented Design Book](https://www.dataorienteddesign.com/dodmain/)
+
+## Design Patterns
+- [x] 📚 [Game Programming Patterns](http://gameprogrammingpatterns.com/)
