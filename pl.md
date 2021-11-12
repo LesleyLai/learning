@@ -12,25 +12,27 @@
 
 ## Implementations
 
-### Interpreters/VM
+### Overview
 - [x] 📚 [Crafting Interpreter](http://www.craftinginterpreters.com/)
-
-### Compilers
-- [ ] 📄 [An Incremental Approach to Compiler Construction
-](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [ ] 📄 [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [ ] 📚 [A Practical Approach to Compiler Construction](https://www.amazon.com/Practical-Approach-Compiler-Construction-Undergraduate/dp/3319527878)
 - [ ] 📚 [Engineering: A Compiler](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X)
 - [ ] 📚 [Modern Compiler Implementation in ML](https://www.amazon.com/Modern-Compiler-Implement-Andrew-Appel/dp/0521607647)
 
-#### Compiler Optimization
+### Compiler Optimization
 - [x] 🎓🎥 [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+
+### Program Analysis
+- [ ] 🎓 [17-355/17-665/17-819 Program Analysis](http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/)
+
+### Compiler Architecture
+- [x] 🎥 [How the TypeScript Compiler Compiles - understanding the compiler internal](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+- [ ] 🎥 [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction)
+- [ ] 📚 [AOSA book: LLVM](https://aosabook.org/en/llvm.html)
 
 ### Parsing
 - [x] 📚 [Crafting Interpreter](http://www.craftinginterpreters.com/) Chapter 4, 6, 16, 17 - 
 contains handwritten lexer and recursive descent parser. And chapter 17 is a great overview of Pratt Parsing
-
-#### Program Analysis
-- [ ] 🎓 [17-355/17-665/17-819 Program Analysis](http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/)
 
 ### GC
 - [ ] 🔗 [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) - Mark and sweep. From Bob Nystrom, the same person behind "Crafting Interpreter."
@@ -39,6 +41,13 @@ contains handwritten lexer and recursive descent parser. And chapter 17 is a gre
 
 ### Functional Languages
 - [ ] 📚 [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf) - by Simon Peyton Jones
+
+### LLVM
+- [ ] 🔗 [Understanding the Clang AST](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
+- [ ] 🔗 [clang-tutor](https://github.com/banach-space/clang-tutor/)
+- [ ] 🔗 [llvm-tutor](https://github.com/banach-space/llvm-tutor)
+- [ ] 🎥 [LLVM IR Tutorial - Phis, GEPs and other things, oh my!](https://www.youtube.com/watch?v=m8G_S5LwlTo)
+- [ ] 🎥 [2019 LLVM Developers’ Meeting: E. Christopher & J. Doerfert “Introduction to LLVM”](https://www.youtube.com/watch?v=J5xExRGaIIY)
 
 ###  Linking and loading
 - [ ] 📚 [Advanced C and C++ Compiling](https://www.amazon.com/Advanced-C-Compiling-Milan-Stevanovic/dp/1430266678)
