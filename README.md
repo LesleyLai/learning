@@ -19,5 +19,8 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 - [Mathematics](mathematics.md)
 - [Psychology](psychology.md)
 
+## Art/Music
+- [Music](music.md)
+
 ## Personal
 - [Inclusion](inclusion.md)
