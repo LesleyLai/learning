@@ -3,6 +3,13 @@
 ## Overview
 - [ ] 📘 [The Napkin project](https://web.evanchen.cc/napkin.html)
 
+## Proofs
+- [ ] 📘 [Proof and the Art of Mathematics](https://www.amazon.com/gp/product/0262539799/)
+    - 📘 [Examples and Extensions](https://www.amazon.com/gp/product/026254220X/)
+- [ ] 📘 [The Art of Proof: Basic Training for Deeper Mathematics](https://www.amazon.com/Art-Proof-Training-Deeper-Mathematics/dp/1441970223/)
+- [ ] 📘 [Proofs: A Long-Form Mathematics Textbook](https://www.amazon.com/Proofs-Long-Form-Mathematics-Jay-Cummings/dp/B08T8JCVF1/)
+- [ ] 📘 [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Aspect-Mathematical-Method/dp/069116407X)
+
 ## Calculus
 - [x] 🎓🎥 [Coursera: Single Variable Calculus
 ](https://www.coursera.org/learn/discrete-calculus)
@@ -19,3 +26,11 @@
 
 ## Geometry
 - [ ] 🎓🎥 [Discrete Differential Geometry - CMU 15-458/858](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+
+## Category Theory
+- [ ] 📘 [Conceptual Mathematics: A First Introduction to Categories](https://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/)
+- [ ] 🎓🎥 [Programming with Categories](http://brendanfong.com/programmingcats.html)
+- [ ] 🎓🎥 [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
+
+## Math for Graphics/Game Dev
+- [ ] 📘 [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
