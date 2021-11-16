@@ -19,5 +19,8 @@
 ## OCaml
 - [x] 📘 [Real World OCaml 2nd Edition](http://dev.realworldocaml.org/)
 
+## Python
+- [x] 📘 [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
+
 ## Racket
 - [ ] 📘 [Beautiful Racket](https://beautifulracket.com/)

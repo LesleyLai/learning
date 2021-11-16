@@ -10,6 +10,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
   - [C](c.md)
   - [C++](cpp.md)
   - [Rust](rust.md)
+  - [Web Programming](web.md)
   - [Other Languages](misc_languages.md)
 - [Programming Language Theory & Implementation](pl.md)
 - [Programming Paradigms](programming_paradigms.md)
