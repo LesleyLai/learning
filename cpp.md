@@ -15,6 +15,7 @@
 - [ ] 📘 [Stepanov Notes On Programming](http://stepanovpapers.com/notes.pdf)
 - [ ] 📘 [From Mathemattics to Generic Programming](https://www.fm2gp.com/)
 - [ ] 📘 [Elements of Programming](http://elementsofprogramming.com/)
+- [ ] 🎥 [Efficient Programming with Components](https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD) - A series videos from Stepanov
 
 ## Concurrency
 - [ ] 📘 [C++ Concurrency in Action, Second Version](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition) by Anthony Williams
