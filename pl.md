@@ -6,6 +6,10 @@
 - [ ] 📘 [Programming Language Concepts (Undergraduate Topics in Computer Science)](https://www.amazon.com/Programming-Language-Concepts-Undergraduate-Computer/dp/1447141555)
 - [ ] 📘 [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
 - [ ] 📘 [Advanced Topics in Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/attapl/)
+- [ ] 📄 [Call-by-name, call-by-value, and the λ-calculus](https://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf)
+
+### Type System
+- [ ] 📄 [Type systems](http://lucacardelli.name/papers/typesystems.pdf)
 
 ### Dependent Typing
 - [x] 📘 [The Little Typer](https://mitpress.mit.edu/books/little-typer)
@@ -21,6 +25,9 @@
 
 ### Compiler Optimization
 - [x] 🎓🎥 [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+
+#### Dynamic Language Optimization
+- [ ] 📄 [Optimizing Compiler Technology for SELF, a Dynamically-typed Object-oriented Programming Language](https://dl.acm.org/doi/10.1145/74818.74831)
 
 ### Program Analysis
 - [ ] 🎓 [17-355/17-665/17-819 Program Analysis](http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/)
