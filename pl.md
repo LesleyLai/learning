@@ -1,7 +1,7 @@
 # Programming Language Theory & Implementation
 ## Theories
 - [x] 📘 [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/pfpl/)
-- [x] 📘 [The Formal Semantics of Programming Languages: An Introduction](https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf)
+- [x] 📘 [The Formal Semantics of Programming Languages: An Introduction](https://mitpress.mit.edu/books/formal-semantics-programming-languages)
 - [ ] 📘 [Essentials of Programming Languages, third edition (The MIT Press)](https://www.amazon.com/Essentials-Programming-Languages-MIT-Press/dp/0262062798)
 - [ ] 📘 [Programming Language Concepts (Undergraduate Topics in Computer Science)](https://www.amazon.com/Programming-Language-Concepts-Undergraduate-Computer/dp/1447141555)
 - [ ] 📘 [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
