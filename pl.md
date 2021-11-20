@@ -41,6 +41,14 @@
 - [x] 📘 [Crafting Interpreter](http://www.craftinginterpreters.com/) Chapter 4, 6, 16, 17 - 
 contains handwritten lexer and recursive descent parser. And chapter 17 is a great overview of Pratt Parsing
 
+#### Partt Parsing
+- [ ] 🔗 [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
+- [ ] 🔗 [Pratt Parsing Index and Updates](https://www.oilshell.org/blog/2017/03/31.html) A "meta-link" that contains various resources on Pratt parsing
+- [ ] 🔗 [Top Down Operator Precedence](https://tdop.github.io/) - Original pratt parsing paper
+- [ ] 🔗 [Pratt Parsing in Parsec. Perfect.](http://kindlang.blogspot.com/2016/08/pratt-parsing-in-parsec-perfect.html)
+- [ ] 🔗 [A Monadic Pratt Parser](https://matthewmanela.com/blog/a-monadic-pratt-parser/)
+- [ ] 🔗 Eli Bendersky, [Top-Down operator precedence parsing](https://eli.thegreenplace.net/2010/01/02/top-down-operator-precedence-parsing)
+
 ### GC
 - [ ] 🔗 [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) - Mark and sweep. From Bob Nystrom, the same person behind "Crafting Interpreter."
 - [x] 📘 [Crafting Interpreter](http://www.craftinginterpreters.com/) Chapter 26 - It introduces tricolor garbage collection.
