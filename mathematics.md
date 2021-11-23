@@ -11,8 +11,7 @@
 - [ ] 📘 [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Aspect-Mathematical-Method/dp/069116407X)
 
 ## Calculus
-- [x] 🎓🎥 [Coursera: Single Variable Calculus
-](https://www.coursera.org/learn/discrete-calculus)
+- [x] 🎓🎥 [Coursera: Single Variable Calculus](https://www.coursera.org/learn/discrete-calculus)
 - [x] 🎓🎥 [Calculus Blue](https://www2.math.upenn.edu/~ghrist/BLUE.html) - Multivariable calculus
 
 ## Linear and Geometry Algebra
@@ -23,6 +22,10 @@
 ## Real Analysis
 - [x] 📘 Tao's [Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics/dp/9380250649)
 - [x] 📘 Tao's [Analysis II](https://www.amazon.com/Analysis-II-Third-Readings-Mathematics/dp/9380250657)
+
+## Numerical
+### Numerical ODEs
+- [ ] 📘 [Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations](https://www.amazon.com/Geometric-Numerical-Integration-Structure-Preserving-Computational/dp/364205157X)
 
 ## Geometry
 - [ ] 🎓🎥 [Discrete Differential Geometry - CMU 15-458/858](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)

@@ -1,5 +1,5 @@
 # Music
-## Music Theories
+## Music Theory
 - [ ] 🔗 [MusicTheory.net](https://www.musictheory.net/lessons)
 - [ ] 🔗 [EarMaster](https://www.earmaster.com/music-theory-online/course-introduction.html)
 
