@@ -18,6 +18,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 ## Math/Science
 - [Mathematics](mathematics.md)
+- [Physics](physics.md)
 - [Psychology](psychology.md)
 
 ## Art/Music
