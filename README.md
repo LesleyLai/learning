@@ -6,6 +6,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 ## Computer Science and Software Engineering
 - [GPU & Graphics](gpu_and_computer_graphics.md)
+- [Low Level Programming](low_level_programming.md)
 - Languages
   - [C](c.md)
   - [C++](cpp.md)

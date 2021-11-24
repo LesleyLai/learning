@@ -26,5 +26,6 @@
 ## CMake
 - [x] 📘 [Professional CMake](https://crascit.com/professional-cmake/)
 
-## Niche Language
+## Deep Language Rules
 - [ ] 📘 [C++ Move Semantics - The Complete Guide](https://leanpub.com/cppmove) by Nicolai Josuttis
+- [x] 🎥 [C9 Lectures: Stephan T. Lavavej: Core C++](https://www.youtube.com/playlist?list=PL4did1f0vtiwJCpw8MOV9tBYKh9izSlDz)
