@@ -14,10 +14,14 @@
 - [x] 🎓🎥 [Coursera: Single Variable Calculus](https://www.coursera.org/learn/discrete-calculus)
 - [x] 🎓🎥 [Calculus Blue](https://www2.math.upenn.edu/~ghrist/BLUE.html) - Multivariable calculus
 
-## Linear and Geometry Algebra
+## Linear Algebra
+- [ ] 📘 [Immersive linear algebra](http://immersivemath.com/ila/index.html)
+- [ ] 📘 [Linear Algebra Done Right](https://linear.axler.net/)
+
+## Geometry Algebra
 - [x] 🔗 [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/) - Intro to Rotors in Geometry Algebra
-- [ ] 📘 [immersive linear algebra](http://immersivemath.com/ila/index.html)
 - [ ] 📘 [Linear and Geometric Algebra](http://www.faculty.luther.edu/~macdonal/laga/)
+- [ ] 📘 [Geometric Algebra For Computer Science](https://www.amazon.com/gp/product/0123749425/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0123749425&linkCode=as2&tag=martenbos-20)
 
 ## Real Analysis
 - [x] 📘 Tao's [Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics/dp/9380250649)
