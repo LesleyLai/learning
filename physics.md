@@ -1,3 +1,3 @@
 # Physics
 ## Classical Mechanics
-- [ ] 📘 [Structure and Interpretation of Classical Mechanics](https://www.amazon.com/Essentials-Programming-Languages-MIT-Press/dp/0262062798)
+- [ ] 📘 [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics-second-edition)
