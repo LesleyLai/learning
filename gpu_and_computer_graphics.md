@@ -27,5 +27,4 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 - [ ] 📄 [Generating Antialiased Images at Low Sampling Densities](http://mentallandscape.com/Papers_siggraph87.pdf)
 
 ## Physics Simulation
-- [ ] 🔗 [Physically Based Modeling: Principles and Practice
-(Online Siggraph '97 Course notes)](https://www.cs.cmu.edu/~baraff/sigcourse/)
+- [ ] 🔗 [Physically Based Modeling: Principles and Practice (Online Siggraph '97 Course notes)](https://www.cs.cmu.edu/~baraff/sigcourse/)
