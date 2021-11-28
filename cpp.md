@@ -19,6 +19,17 @@
 
 ## Concurrency
 - [ ] 📘 [C++ Concurrency in Action, Second Version](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition) by Anthony Williams
+- [x] 🎥 [Better Code: Concurrency](https://www.youtube.com/watch?v=zULU6Hhp42w)
+
+## Coroutines
+- [x] 🎥 [Implementing Generators with C++20 Coroutines](https://youtu.be/D0snE2-BOwM) - Sy Brand's live stream
+- Lewis Baker's blog posts
+  - [x] 🔗 [Coroutine Theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
+  - [ ] 🔗 [Understanding operator co_await](https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await)
+  - [ ] 🔗 [Understanding the promise type](https://lewissbaker.github.io/2018/09/05/understanding-the-promise-type)
+  - [ ] 🔗 [Understanding Symmetric Transfer](https://lewissbaker.github.io/2020/05/11/understanding_symmetric_transfer)
+- [ ] 🔗 [Raymond Chen's Coroutine series](https://devblogs.microsoft.com/oldnewthing/20210504-01/?p=105178)
+
 
 ## Functional Programming
 - [x] 📘 [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
