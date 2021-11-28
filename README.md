@@ -16,6 +16,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 - [Programming Language Theory & Implementation](pl.md)
 - [Programming Paradigms](programming_paradigms.md)
 - [Software Engineering](software_engineering.md)
+- [Tools](tools.md)
 
 ## Math/Science
 - [Mathematics](mathematics.md)
