@@ -28,3 +28,7 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 
 ## Physics Simulation
 - [ ] 🔗 [Physically Based Modeling: Principles and Practice (Online Siggraph '97 Course notes)](https://www.cs.cmu.edu/~baraff/sigcourse/)
+
+## Geometry
+### Mesh editing
+- [] 📄 [PushPull++](http://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf) - Related to SketchUp's push-pull tool
