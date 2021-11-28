@@ -53,6 +53,7 @@ contains handwritten lexer and recursive descent parser. And chapter 17 is a gre
 - [ ] 🔗 [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) - Mark and sweep. From Bob Nystrom, the same person behind "Crafting Interpreter."
 - [x] 📘 [Crafting Interpreter](http://www.craftinginterpreters.com/) Chapter 26 - It introduces tricolor garbage collection.
 - [ ] 📘 [The Garbage Collection Handbook](https://gchandbook.org/)
+- [ ] 📄 [A Unified Theory of Garbage Collection](https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf)
 - [ ] 📄 [Deconstructing the Garbage-First Collector](https://users.cecs.anu.edu.au/~steveb/pubs/papers/g1-vee-2020.pdf) - an overview of garbage first collector in HotSpot
 
 ### Functional Languages
