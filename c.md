@@ -6,3 +6,6 @@
 
 ## Strict Aliasing Rule
 - [x] 🔗 [What is Strict Aliasing and Why do we Care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8)
+
+## History
+- [ ] 📄 [The Development of the C Language](https://www.bell-labs.com/usr/dmr/www/chist.pdf)

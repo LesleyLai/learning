@@ -3,7 +3,7 @@
 ## Basics
 - [x] 🎥 [CppCon 2020 Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 - [x] 🎥 [CppCon 2019 Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4CTnVjJqnAKeMfGzOWjsRa)
-- [ ] [Don’t Help the Compiler](https://channel9.msdn.com/Events/GoingNative/2013/Don-t-Help-the-Compiler) - by Stephan T. Lavavej
+- [ ] 🎥 [Don’t Help the Compiler](https://channel9.msdn.com/Events/GoingNative/2013/Don-t-Help-the-Compiler) - by Stephan T. Lavavej
 
 ## History
 - [x] 📘 [Design and Evolution of C++](https://www.amazon.com/Design-Evolution-C-Bjarne-Stroustrup/dp/0201543303)
