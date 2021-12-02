@@ -1,5 +1,8 @@
 # Low Level Programming
 
+## Floating-point numbers
+- [x] 🔗 [Floating-point in mobile shaders](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
+
 ## Pointers
 - [ ] 🔗 [Pointers Are Complicated, or: What's in a Byte?](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
 - [ ] 🔗 [Pointers Are Complicated II, or: We need better language specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
