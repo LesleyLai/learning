@@ -40,3 +40,6 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 - [x] 📘 [Vulkan Guide](https://vkguide.dev/)
 - [x] 📘 [vk_mini_path_tracer tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer)
 - [ ] 📘 [3D Graphics Rendering Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197)
+
+## Texture Compression
+- [ ] 🔗 [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
