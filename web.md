@@ -10,4 +10,4 @@
 - [ ] 📘 [Effective TypeScript](https://effectivetypescript.com/)
 
 ## Vue.js
-- [ ] 🔗 [Vue Official Guide](https://vuejs.org/v2/guide/index.html)
+- [x] 🔗 [Vue Official Guide](https://v3.vuejs.org/guide/introduction.html)
