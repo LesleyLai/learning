@@ -21,12 +21,14 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 - [ ] 📄 [Stratified Sampling of Spherical Triangles](http://www.graphics.cornell.edu/pubs/1995/Arv95c.pdf)
 - [ ] 📄 [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 - [ ] 📄 [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://belcour.github.io/blog/slides/2019-sampling-bluenoise/index.html)
-- [ ] 🔗 [Using Blue Noise For Raytraced Soft Shadows](https://blog.demofox.org/2020/05/16/using-blue-noise-for-raytraced-soft-shadows/)
 - [ ] 📄 [Computing the Discrepancy with Applications to Supersampling Patterns](http://mentallandscape.com/Papers_tog96.pdf)
 - [ ] 📄 [Generating Antialiased Images at Low Sampling Densities](http://mentallandscape.com/Papers_siggraph87.pdf)
 
 ## Shadows
+- [ ] 📄 [Percentage-Closer Soft Shadows](https://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
+- [ ] 🔗 [Cascaded Shadow Mapping - LearnOpenGL](https://learnopengl.com/Guest-Articles/2021/CSM)
 - [ ] 📘 [Real-Time Shadows](https://www.realtimeshadows.com/)
+- [ ] 🔗 [Using Blue Noise For Raytraced Soft Shadows](https://blog.demofox.org/2020/05/16/using-blue-noise-for-raytraced-soft-shadows/)
 
 ## Physics Simulation
 - [ ] 🔗 [Physically Based Modeling: Principles and Practice (Online Siggraph '97 Course notes)](https://www.cs.cmu.edu/~baraff/sigcourse/)
