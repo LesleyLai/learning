@@ -11,6 +11,7 @@
 - [ ] 📘 [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
 - [ ] 📘 [Advanced Topics in Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/attapl/)
 - [ ] 📄 [Type systems](http://lucacardelli.name/papers/typesystems.pdf)
+- [ ] 🎥 ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)
 
 #### Dependent Typing
 - [x] 📘 [The Little Typer](https://mitpress.mit.edu/books/little-typer)
