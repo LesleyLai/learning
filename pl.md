@@ -71,3 +71,4 @@ contains handwritten lexer and recursive descent parser. And chapter 17 is a gre
 ###  Linking and loading
 - [ ] 📘 [Advanced C and C++ Compiling](https://www.amazon.com/Advanced-C-Compiling-Milan-Stevanovic/dp/1430266678)
 - [ ] 📘 [Linkers & Loaders](https://www.amazon.com/dp/1558604960)
+- [ ] 🔗 [Linkers](https://www.airs.com/blog/archives/38) - Blog post series by the author of gold linker
