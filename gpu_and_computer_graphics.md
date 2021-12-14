@@ -47,4 +47,4 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 - [ ] 🔗 [Breaking Down Barriers Series](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 
 ## Texture Compression
-- [ ] 🔗 [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+- [x] 🔗 [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
