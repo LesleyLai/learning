@@ -10,8 +10,5 @@
 ## TypeScript
 - [ ] 📘 [Effective TypeScript](https://effectivetypescript.com/)
 
-## Http
-- [ ] 🔗 (Cross-Origin Resource Sharing (CORS) | MDN Web Docs)[https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS]
-
 ## Vue.js
 - [x] 🔗 [Vue Official Guide](https://v3.vuejs.org/guide/introduction.html)
