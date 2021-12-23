@@ -6,6 +6,7 @@
 
 ## JavaScript
 - [ ] 📘 [JavaScript: The New Toys](https://thenewtoys.dev/)
+- [x] 🔗 [Nullish coalescing operator (??) - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 
 ## TypeScript
 - [ ] 📘 [Effective TypeScript](https://effectivetypescript.com/)
