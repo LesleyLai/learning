@@ -6,6 +6,7 @@
 
 ## JavaScript
 - [ ] 📘 [JavaScript: The New Toys](https://thenewtoys.dev/)
+- [x] 🔗 [Optional chaining (?.) - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 - [x] 🔗 [Nullish coalescing operator (??) - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 
 ## TypeScript
