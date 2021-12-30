@@ -14,3 +14,7 @@
 
 ## Vue.js
 - [x] 🔗 [Vue Official Guide](https://v3.vuejs.org/guide/introduction.html)
+
+## Http Requests
+- [x] 🔗 [How to make HTTP requests with Axios](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios)
+- [x] 🔗 [Axios or fetch(): Which should you use?](https://blog.logrocket.com/axios-or-fetch-api/)
