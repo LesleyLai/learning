@@ -48,3 +48,6 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 
 ## Texture Compression
 - [x] 🔗 [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+
+## Image Deformation
+- [x] 📄 [Image deformation using moving least squares](https://doi.org/10.1145/1179352.1141920)
