@@ -28,4 +28,5 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 - [Music](music.md)
 
 ## Personal
+- [Career](career.md)
 - [Inclusion](inclusion.md)
