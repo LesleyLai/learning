@@ -6,6 +6,9 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 - [x] 📄 [The Rendering Equation](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/2007/rend_eq.pdf) - James T. Kajiya
 - [ ] 📄 ["Monte Carlo Methods for Light Transport Simulation"](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning PhD thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
 
+### Course
+- [ ] 🎓 [CS 87/287 | Rendering Algorithms](https://cs87-dartmouth.github.io/Fall2021/)
+
 ### Hybrid Rendering
 - [x] 🔗 [Adventures in Hybrid Rendering](https://diharaw.github.io/post/adventures_in_hybrid_rendering/)
 
