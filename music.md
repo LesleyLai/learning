@@ -3,6 +3,7 @@
 - [ ] 🔗 [MusicTheory.net](https://www.musictheory.net/lessons)
 - [ ] 🔗 [EarMaster](https://www.earmaster.com/music-theory-online/course-introduction.html)
 - [ ] 🎓 [Berklee Music Theory 101](https://online.berklee.edu/courses/music-theory-101)
+- [ ] 🎓 [Yale Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic)
 
 ## Piano
 - [x] 🔗 [flowkey](https://www.flowkey.com)
