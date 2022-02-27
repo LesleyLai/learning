@@ -2,6 +2,7 @@
 ## Music Theory
 - [ ] 🔗 [MusicTheory.net](https://www.musictheory.net/lessons)
 - [ ] 🔗 [EarMaster](https://www.earmaster.com/music-theory-online/course-introduction.html)
+- [ ] 🎓 [Berklee Music Theory 101](https://online.berklee.edu/courses/music-theory-101)
 
 ## Piano
 - [x] 🔗 [flowkey](https://www.flowkey.com)
