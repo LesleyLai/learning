@@ -7,6 +7,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 ## Computer Science and Software Engineering
 - [Concurrency](concurrency.md)
 - [GPU & Graphics](gpu_and_computer_graphics.md)
+- [(Non-graphics) Game Dev](gamedev.md)
 - [Low Level Programming](low_level_programming.md)
 - Languages
   - [C](c.md)
