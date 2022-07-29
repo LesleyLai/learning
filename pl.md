@@ -20,7 +20,7 @@
 
 ### Overview
 - [x] 📘 [Crafting Interpreter](http://www.craftinginterpreters.com/)
-- [ ] 📄 [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [x] 📄 [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [ ] 📘 [A Practical Approach to Compiler Construction](https://www.amazon.com/Practical-Approach-Compiler-Construction-Undergraduate/dp/3319527878)
 - [ ] 📘 [Engineering: A Compiler](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X)
 - [ ] 📘 [Modern Compiler Implementation in ML](https://www.amazon.com/Modern-Compiler-Implement-Andrew-Appel/dp/0521607647)
