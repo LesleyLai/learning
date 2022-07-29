@@ -25,6 +25,8 @@
 - [ ] 📘 [Engineering: A Compiler](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X)
 - [ ] 📘 [Modern Compiler Implementation in ML](https://www.amazon.com/Modern-Compiler-Implement-Andrew-Appel/dp/0521607647)
 - [ ] 📘 [An introduction to creating a C compiler for those who want to know the lower layers](https://www-sigbus-info.translate.goog/compilerbook?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) - Book in Japanese, but the Google translation is readable enough
+- [ ] 🎓🎥📘 [Fall 2020 IU Compiler Course](https://github.com/IUCompilerCourse/IU-P423-P523-E313-E513-Fall-2020)
+    - [website](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/)
 
 ### Compiler Optimization
 - [x] 🎓🎥 [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
