@@ -1,5 +1,8 @@
 # Low Level Programming
 
+## Courses
+- [ ] 🎓🎥 [MIT OCW performance engineering of software systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+
 ## Floating-point numbers
 - [x] 🔗 [Floating-point in mobile shaders](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
 
