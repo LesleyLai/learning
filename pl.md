@@ -35,6 +35,7 @@
 - [x] 🎥 [How the TypeScript Compiler Compiles - understanding the compiler internal](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [ ] 🎥 [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction)
 - [ ] 📘 [AOSA book: LLVM](https://aosabook.org/en/llvm.html)
+- [x] 🎥 [Responsive compilers - Nicholas Matsakis - PLISS 2019](https://youtu.be/N6b44kMS6OM)
 
 ### Dominators and Static Single Assignment
 - [ ] 📘 [The Static Single Assignment Book](http://ssabook.gforge.inria.fr/latest/book.pdf)
