@@ -6,6 +6,7 @@
 - [ ] 📘 [Essentials of Programming Languages, third edition (The MIT Press)](https://www.amazon.com/Essentials-Programming-Languages-MIT-Press/dp/0262062798)
 - [ ] 📘 [Programming Language Concepts (Undergraduate Topics in Computer Science)](https://www.amazon.com/Programming-Language-Concepts-Undergraduate-Computer/dp/1447141555)
 - [ ] 📄 [Call-by-name, call-by-value, and the λ-calculus](https://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf)
+- [x] 📄 [Implementation Strategies for Mutable Value Semantics](https://www.jot.fm/issues/issue_2022_02/article2.pdf) - About the design of the [Val](https://www.val-lang.dev/) language
 
 ### Type System
 - [ ] 📘 [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
