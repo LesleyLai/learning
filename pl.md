@@ -37,17 +37,20 @@
 - [ ] 📘 [AOSA book: LLVM](https://aosabook.org/en/llvm.html)
 - [x] 🎥 [Responsive compilers - Nicholas Matsakis - PLISS 2019](https://youtu.be/N6b44kMS6OM)
 
-### Dominators and Static Single Assignment
-- [ ] 📘 [The Static Single Assignment Book](http://ssabook.gforge.inria.fr/latest/book.pdf)
-- [ ] 📄[Simple and Efficient Construction of Static Single Assignment Form. 2013 Matthias Braun, Sebastian Buchwald, Sebastian Hack, Roland Leißa, Christoph Mallon, and Andreas Zwinkau.](http://c9x.me/compile/bib/braun13cc.pdf)
-- [ ] 📄[An Efficient Method of Computing Static Single Assignment Form. Ron Cytron, Jeanne Ferrante, Barry K. Rosen, Mark N. Wegman, and F. Kenneth Zadeck.](http://c9x.me/compile/bib/ssa.pdf)
-- [ ] 📄[A Simple, Fast Dominance Algorithm. Keith D. Cooper, Tymothy J. Harvey, and Ken Kennedy.](http://c9x.me/compile/bib/quickdom.pdf)
+### Type System Implementation
+- [ ] 📄 [Compiling Swift generics, Part I](https://forums.swift.org/t/compiling-swift-generics-part-i/60898)
 
 ### Compiler Optimization
 - [x] 🎓🎥 [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [ ] 📄 [What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance](http://c9x.me/compile/bib/ubc.pdf)
 - [ ] 📄 [Constant Propagation with Conditional Branches](http://c9x.me/compile/bib/constpropssa.pdf)
 - [ ] 📄 [Global Code Motion Global Value Numbering](http://c9x.me/compile/bib/click-gvn.pdf)
+
+#### Dominators and Static Single Assignment
+- [ ] 📘 [The Static Single Assignment Book](http://ssabook.gforge.inria.fr/latest/book.pdf)
+- [ ] 📄[Simple and Efficient Construction of Static Single Assignment Form. 2013 Matthias Braun, Sebastian Buchwald, Sebastian Hack, Roland Leißa, Christoph Mallon, and Andreas Zwinkau.](http://c9x.me/compile/bib/braun13cc.pdf)
+- [ ] 📄[An Efficient Method of Computing Static Single Assignment Form. Ron Cytron, Jeanne Ferrante, Barry K. Rosen, Mark N. Wegman, and F. Kenneth Zadeck.](http://c9x.me/compile/bib/ssa.pdf)
+- [ ] 📄[A Simple, Fast Dominance Algorithm. Keith D. Cooper, Tymothy J. Harvey, and Ken Kennedy.](http://c9x.me/compile/bib/quickdom.pdf)
 
 #### Dynamic Language Optimization
 - [ ] 📄 [Optimizing Compiler Technology for SELF, a Dynamically-typed Object-oriented Programming Language](https://dl.acm.org/doi/10.1145/74818.74831)
