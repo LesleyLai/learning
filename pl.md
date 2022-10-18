@@ -57,6 +57,7 @@
 - [ ] 📄 [Linear Scan Register Allocation on SSA Form. Christian Wimmer Michael Franz.](http://c9x.me/compile/bib/Wimmer10a.pdf)
 - [ ] 📄 [Iterated Register Coalescing. Lal George and Andrew W. Appel.](http://c9x.me/compile/bib/irc.pdf)
 - [ ] 📄 [A Generalized Algorithm for Graph-Coloring Register Allocation. Michael D. Smith, Norman Ramsey, and Glenn Holloway.](http://c9x.me/compile/bib/pcc-rega.pdf)
+- [ ] 🔗 [The Solid-State Register Allocator](https://www.mattkeeter.com/blog/2022-10-04-ssra)
 
 ### Codegen
 - [ ] 📄 [Engineering a Simple, Efficient Code Generator Generator. Christopher W. Fraser, David R. Hanson, and Todd A. Proebsting.](http://c9x.me/compile/bib/iburg.pdf)
@@ -100,3 +101,6 @@ contains handwritten lexer and recursive descent parser. And chapter 17 is a gre
 
 ### Machine specific
 See [Low Level Programming](low_level_programming.md)
+
+## Education
+- [x] 📄 [Towards a Notional Machine for Runtime Stacks and Scope: When Stacks Don’t Stack Up](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-nm-stacks/)
