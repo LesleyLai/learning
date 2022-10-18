@@ -42,6 +42,7 @@
 - [ ] 📄 [Compiling Swift generics, Part I](https://forums.swift.org/t/compiling-swift-generics-part-i/60898)
 
 ### Compiler Optimization
+- [ ] 📘 [Building an Optimizing Compiler](https://keybase.theophile.me/info/morgan-optimizing-compiler.pdf)
 - [x] 🎓🎥 [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [ ] 📄 [What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance](http://c9x.me/compile/bib/ubc.pdf)
 - [ ] 📄 [Constant Propagation with Conditional Branches](http://c9x.me/compile/bib/constpropssa.pdf)
