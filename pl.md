@@ -6,16 +6,18 @@
 - [ ] 📘 [Essentials of Programming Languages, third edition (The MIT Press)](https://www.amazon.com/Essentials-Programming-Languages-MIT-Press/dp/0262062798)
 - [ ] 📘 [Programming Language Concepts (Undergraduate Topics in Computer Science)](https://www.amazon.com/Programming-Language-Concepts-Undergraduate-Computer/dp/1447141555)
 - [ ] 📄 [Call-by-name, call-by-value, and the λ-calculus](https://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf)
-- [x] 📄 [Implementation Strategies for Mutable Value Semantics](https://www.jot.fm/issues/issue_2022_02/article2.pdf) - About the design of the [Val](https://www.val-lang.dev/) language
 
 ### Type System
-- [ ] 📘 [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
+- [x] 📘 [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
 - [ ] 📘 [Advanced Topics in Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/attapl/)
 - [ ] 📄 [Type systems](http://lucacardelli.name/papers/typesystems.pdf)
 - [ ] 🎥 ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)
 
 #### Dependent Typing
 - [x] 📘 [The Little Typer](https://mitpress.mit.edu/books/little-typer)
+
+#### Mutable Value Semantics
+- [x] 📄 [Implementation Strategies for Mutable Value Semantics](https://www.jot.fm/issues/issue_2022_02/article2.pdf) - About the design of the [Val](https://www.val-lang.dev/) language
 
 ## Implementations
 
@@ -40,6 +42,12 @@
 
 ### Type System Implementation
 - [ ] 📄 [Compiling Swift generics, Part I](https://forums.swift.org/t/compiling-swift-generics-part-i/60898)
+
+#### Unification
+- [x] 🔗 [Eli Bendersky](https://eli.thegreenplace.net/2018/unification) - Nice short introduction to the unification algorithm
+- [x] 🔗 [Anti-unification](https://ericlippert.com/?s=unification) - A series of (very brief) blog posts implement _first-order anti-unification_*
+- [ ] 📄 [An Efficient Unification algorithm](https://dl.acm.org/doi/pdf/10.1145/357162.357169)
+- [ ] 📄 [Unification: A Multidisciplinary survey](https://cslab.pepperdine.edu/warford/cosc450/Unification-Knight.pdf)
 
 ### Compiler Optimization
 - [ ] 📘 [Building an Optimizing Compiler](https://keybase.theophile.me/info/morgan-optimizing-compiler.pdf)
