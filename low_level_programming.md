@@ -7,6 +7,9 @@
 ### Access Pattern
 - [x] 🔗 [For Software Performance, the Way Data is Accessed Matters!](https://johnnysswlab.com/for-software-performance-the-way-data-is-accessed-matters)
 
+### Allocation
+- [x] 🔗 [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies) - A series on custom allocators
+
 ## Floating-point numbers
 - [ ] 📄 [What Every Computer Scientist Should Know About Floating Point Arithmetic](http://c9x.me/compile/bib/floating-point.pdf)
 - [x] 🔗 [Floating-point in mobile shaders](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
