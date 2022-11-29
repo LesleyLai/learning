@@ -28,7 +28,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 ## Art/Music
 - [Music](music.md)
 
-## Personal
+## Personal Development
 - [Career](career.md)
 - [Meta Learning](meta_learning.md)
 - [Inclusion](inclusion.md)
