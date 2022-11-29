@@ -30,4 +30,5 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 ## Personal
 - [Career](career.md)
+- [Meta Learning](meta_learning.md)
 - [Inclusion](inclusion.md)
