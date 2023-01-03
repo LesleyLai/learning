@@ -23,6 +23,7 @@
 
 ### Overview
 - [x] 📘 [Crafting Interpreter](http://www.craftinginterpreters.com/)
+- [x] 🔗 [Architectures for interpreters: Substitutional, denotational, big-step and small-step](https://matt.might.net/articles/writing-an-interpreter-substitution-denotational-big-step-small-step/)
 - [x] 📄 [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [ ] 📘 [A Practical Approach to Compiler Construction](https://www.amazon.com/Practical-Approach-Compiler-Construction-Undergraduate/dp/3319527878)
 - [ ] 📘 [Engineering: A Compiler](https://www.amazon.com/Engineering-Compiler-Keith-D-Cooper-dp-0128154128/dp/0128154128)
