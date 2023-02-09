@@ -32,6 +32,7 @@
     - [website](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/)
 
 ### Compiler Description/Architecture
+See also [Rust#internal](rust.md#internal)
 - [ ] 📘 [An introduction to creating a C compiler for those who want to know the lower layers](https://www-sigbus-info.translate.goog/compilerbook?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) - Book in Japanese, but the Google translation is readable enough
 - [ ] 📄 [A New C Compiler by Ken Thompson](http://c9x.me/compile/bib/new-c.pdf)
 - [ ] 📄 [A Tour Through the Portable C Compiler. S. C. Johnson.](http://c9x.me/compile/bib/pcc-tour.pdf)
