@@ -5,6 +5,7 @@
 
 ## Low-level Rust
 - [ ] 📘 [The Rustonomicon: The Dark Arts of Unsafe Rust](https://doc.rust-lang.org/nomicon/index.html)
+- [ ] 📘 [Rust Atomics and Locks](https://marabos.nl/atomics/)
 
 ## System Programming
 - [ ] 📘 [Writing an OS in Rust](https://os.phil-opp.com/)
