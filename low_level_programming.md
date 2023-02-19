@@ -4,6 +4,9 @@
 - [ ] 🎓🎥 [MIT OCW performance engineering of software systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 
 ## Memory
+### Cache
+- [ ] 📘 [A Primer on Memory Consistency and Cache Coherence Second Edition](https://pages.cs.wisc.edu/~markhill/papers/primer2020_2nd_edition.pdf)
+
 ### Access Pattern
 - [x] 🔗 [For Software Performance, the Way Data is Accessed Matters!](https://johnnysswlab.com/for-software-performance-the-way-data-is-accessed-matters)
 
