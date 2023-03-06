@@ -42,3 +42,6 @@
 
 ## Math for Graphics/Game Dev
 - [ ] 📘 [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+
+## Probability and Statistics
+- [x] 🔗 [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
