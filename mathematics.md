@@ -5,6 +5,7 @@
 - [ ] 📘 [The Napkin project](https://web.evanchen.cc/napkin.html)
 
 ## Proofs
+- [ ] 📘 [How to Prove It: A Structured Approach](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 - [ ] 📘 [Proof and the Art of Mathematics](https://www.amazon.com/gp/product/0262539799/)
     - 📘 [Examples and Extensions](https://www.amazon.com/gp/product/026254220X/)
 - [ ] 📘 [The Art of Proof: Basic Training for Deeper Mathematics](https://www.amazon.com/Art-Proof-Training-Deeper-Mathematics/dp/1441970223/)
