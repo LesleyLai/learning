@@ -1,6 +1,7 @@
 # Mathematics
 
 ## Overview
+- [ ] 📘 [All the Math You Missed](https://www.amazon.com/Math-Missed-Need-Graduate-School-dp-1009009192/dp/1009009192)
 - [ ] 📘 [The Napkin project](https://web.evanchen.cc/napkin.html)
 
 ## Proofs
