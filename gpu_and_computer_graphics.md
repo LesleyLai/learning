@@ -9,7 +9,7 @@ Also see [Graphics-Programming-Virtual-Meetup/Resources](https://github.com/Grap
 
 ### Course
 
-- [ ] 🎓 [CS 87/287 | Rendering Algorithms](https://cs87-dartmouth.github.io/Fall2021/)
+- [x] 🎓 [CS 87/287 | Rendering Algorithms](https://cs87-dartmouth.github.io/Fall2021/)
 
 ### Hybrid Rendering
 
