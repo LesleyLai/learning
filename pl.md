@@ -131,6 +131,7 @@ See also [Rust#internal](rust.md#internal)
 - [ ] 🔗 [llvm-tutor](https://github.com/banach-space/llvm-tutor)
 - [ ] 🎥 [LLVM IR Tutorial - Phis, GEPs and other things, oh my!](https://www.youtube.com/watch?v=m8G_S5LwlTo)
 - [ ] 🎥 [2019 LLVM Developers’ Meeting: E. Christopher & J. Doerfert “Introduction to LLVM”](https://www.youtube.com/watch?v=J5xExRGaIIY)
+- [ ] 🔗 [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io)
 
 ### Linking and loading
 
