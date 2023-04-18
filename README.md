@@ -29,6 +29,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 - [Music](music.md)
 
 ## Personal Development
+- [Lifestyle](lifestyle.md)
 - [Career](career.md)
 - [Meta Learning](meta_learning.md)
 - [Inclusion](inclusion.md)
