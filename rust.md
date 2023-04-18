@@ -1,7 +1,6 @@
 # Rust
 
 - [x] 📘 [Rust Book](https://doc.rust-lang.org/book/)
-- [x] 📘 [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [ ] 📘 [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 
 ## Low-level Rust
