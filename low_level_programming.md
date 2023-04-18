@@ -1,7 +1,8 @@
-# Low Level Programming
+# Low Level Programming and Performance Engineering
 
-## Courses
+## Overview
 - [ ] 🎓🎥 [MIT OCW performance engineering of software systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+- [ ] 📘 [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 
 ## Memory
 ### Cache
