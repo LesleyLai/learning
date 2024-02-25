@@ -1,5 +1,7 @@
 # Learning Resources
 
+**Archived**: *This repository has been archived. I've realized that maintaining it mainly indulges [my tendency to collect](https://zettelkasten.de/posts/collectors-fallacy/) rather than genuinely aiding my learning process. I'd prefer to invest this time in actual learning instead.*
+
 A list of learning resources that I would like to refer back later or intent to study.
 
 Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
